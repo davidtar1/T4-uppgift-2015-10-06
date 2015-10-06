@@ -5,7 +5,7 @@
 // Copyright   : Your copyright notice
 // Description : pyramid C++, Ansi-style
 //============================================================================
-Spooks!
+
 
 #include <iostream>
 using namespace std;
